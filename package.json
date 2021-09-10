@@ -1,0 +1,25 @@
+{
+    "name": "antonio-vscode-theme",
+    "displayName": "antonio-vscode-theme",
+    "description": "Nuestro amigo Antonio ha sacado otro temardo oscurete para VSCode :D",
+    "version": "0.0.1",
+    "publisher": "DomiTP",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Antonio"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Antonio VSCode Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Antonio VSCode Theme-color-theme.json"
+            }
+        ]
+    }
+}
